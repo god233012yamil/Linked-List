@@ -151,7 +151,7 @@ This project is licensed under the GNU GENERAL PUBLIC License - see the LICENSE 
 
 ## Author
 
-[Yamil garcia]
+Yamil Garcia
 
 ## Acknowledgments
 
